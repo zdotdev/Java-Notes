@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md",
+                "file": "2. Getting Deeper/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md",
+                "file": "2. Getting Deeper/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md",
+                "file": "2. Getting Deeper/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md"
+                "file": "2. Getting Deeper/Generics.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "a5ea7c1f49f7cd02",
   "lastOpenFiles": [
-    "Java Fundamentals/Learn the Fundamentals/1. Java Basics.md",
-    "Java Fundamentals/Learn the Fundamentals/3. Object Oriented Programming.md",
-    "Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md",
+    "1. Java Fundamentals/Learn the Fundamentals/3. Object Oriented Programming.md",
+    "2. Getting Deeper/Generics.md",
+    "1. Java Fundamentals/Learn the Fundamentals/4. Working with Files and API's.md",
+    "2. Getting Deeper",
+    "1. Java Fundamentals/Learn the Fundamentals/1. Java Basics.md",
+    "1. Java Fundamentals/Learn the Fundamentals/2. Data Structure.md",
     "Untitled.md",
-    "Java Fundamentals/img/Pasted image 20231206191826.png",
+    "1. Java Fundamentals/img/Pasted image 20231206191826.png",
     "Pasted image 20231205105655.png",
-    "Java Fundamentals/Learn the Fundamentals/2. Data Structure.md",
     "Pasted image 20231119215235.png",
     "Pasted image 20231119181556.png",
     "Pasted image 20231119180745.png",
@@ -162,11 +164,11 @@
     "Pasted image 20231119180424.png",
     "Pasted image 20231119180015.png",
     "2023-11-14.md",
-    "Java Fundamentals/img",
-    "Java Fundamentals/img/Pasted image 20231024222610.png",
-    "Java Fundamentals/img/Pasted image 20231024131801.png",
-    "Java Fundamentals/Learn the Fundamentals",
+    "1. Java Fundamentals/img",
+    "1. Java Fundamentals/img/Pasted image 20231024222610.png",
+    "1. Java Fundamentals/img/Pasted image 20231024131801.png",
+    "1. Java Fundamentals/Learn the Fundamentals",
     "Java Fundamentals/java basics v2.md",
-    "Java Fundamentals"
+    "1. Java Fundamentals"
   ]
 }
